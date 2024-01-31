@@ -1,0 +1,242 @@
+repo_name: hantsy/nativescript-ng2-sample
+report_id: a224d7a9d4ab4d133bad105f5459a9bf
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:16:28+00:00'
+requested_by: hantsy
+provider: github
+branch: master
+detected_tools_count: 18
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/App_Resources/Android/app.gradle
+  detection_source: app/App_Resources/Android/app.gradle
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: "@angular/platform-server"
+  description: Angular - library for using Angular in Node.js
+  package_url: https://www.npmjs.com/@angular/platform-server
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: babel-traverse
+  description: The Babel Traverse module maintains the overall tree state
+  package_url: https://www.npmjs.com/babel-traverse
+  version: 6.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16947/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: babel-types
+  description: Babel Types is a Lodash-esque utility library for AST nodes
+  package_url: https://www.npmjs.com/babel-types
+  version: 6.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16693/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: babylon
+  description: A JavaScript parser
+  package_url: https://www.npmjs.com/babylon
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16596/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
+- name: tns-core-modules
+  description: Telerik NativeScript Core Modules
+  package_url: https://www.npmjs.com/tns-core-modules
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16972/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source_url: https://github.com/hantsy/nativescript-ng2-sample/blob/master/app/package.json
+  detection_source: app/package.json
+  last_updated_by: hantsy
+  last_updated_on: 2016-05-26 07:06:31.000000000 Z
